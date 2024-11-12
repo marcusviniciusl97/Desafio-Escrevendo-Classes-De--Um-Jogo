@@ -20,6 +20,7 @@
 [Linux-Projeto-1-Infra-de-Usuarios](https://github.com/marcusviniciusl97/Linux-Projeto-1-Infra-de-Usuarios.git)
 [Calculadora-Partidas_Rankeadas-DIO](https://github.com/marcusviniciusl97/Calculadora-Partidas_Rankeadas-DIO)
 [Desafio_Boss_DIO](https://github.com/marcusviniciusl97/Desafio_Boss_DIO)
+[Desafio-Escrevendo-Classes-De-Um-Jogo](https://github.com/marcusviniciusl97/Desafio-Escrevendo-Classes-De-Um-Jogo)
 
 
 ### 🚀 Linguagens Mais Usadas
